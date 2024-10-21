@@ -6,6 +6,7 @@ public class intro {
         }
         catch(ArithmeticException e){
             System.out.println("This cant divide by zero");
+            System.out.println("Exception: "+e);
         }
         System.out.println("after catch");
     }
