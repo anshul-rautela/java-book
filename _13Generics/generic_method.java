@@ -23,5 +23,6 @@ public class generic_method {
             System.out.println("7 is in nums"); 
          }
          //init("eh",arr);
+        
     }
 }

@@ -8,6 +8,5 @@ public class local_var_type_interface {
  public static void main(String[] args) {
     
     var ob = new Myclass<Integer,String>();
-    
  }
 }
