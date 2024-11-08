@@ -1,4 +1,4 @@
-package _15lambda_Expressions;
+package _15lambda_Expressions;  
 
 class EmptyArrayException extends Exception{
     public EmptyArrayException(){
@@ -20,7 +20,6 @@ public class exceptionAndLambda {
             }
         };
         System.out.println(f.dou(d));
-        System.out.println(f.do
-        u(new double[0]));        
+        System.out.println(f.dou(new double[0]));        
     }    
 }
