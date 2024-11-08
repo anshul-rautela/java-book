@@ -20,6 +20,7 @@ public class exceptionAndLambda {
             }
         };
         System.out.println(f.dou(d));
-        System.out.println(f.dou(new double[0]));        
+        System.out.println(f.do
+        u(new double[0]));        
     }    
 }
